@@ -9,7 +9,7 @@ This is a commmand line application that matches loans to users, and allows to s
 
 ## Technologies
 
-TThis project is written in Python with the following packages:
+This project is written in Python with the following packages:
 
 * fire 
 
