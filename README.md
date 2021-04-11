@@ -1,41 +1,58 @@
-# LOAN-QUALIFIER-
 
-# Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+# THE LOAN QUALIFIER CLI
+
+This is a commmand line application that matches loans to users, and allows to save qualifying loan data to a csv file for shaing on a spreadsheet. 
+
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+TThis project is written in Python with the following packages:
+
+* fire 
+
+* questionary 
+
+* pytest
+
+
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Before running the application first install the following dependencies.
+
+```python
+  pip install fire
+  pip install questionary
+  pip install pytest
+```
+Clone to your local repo and run **app.py**
 
 ---
 
 ## Examples
 
-This section should include screenshots, code blocks, or animations showing how your project works.
+coming soon!
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+photos coming soon!
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.
+[Van Miller Sarcov Maquilan](https://www.linkedin.com/in/van-miller-sarcov-maquilan-20b472202/) 
+
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify others what they can and can not do with your source code and files. Use this section to include the licence you want to use.
+Feel free to add to this code, and use for your own project. :)
