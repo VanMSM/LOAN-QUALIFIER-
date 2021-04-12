@@ -48,7 +48,8 @@ Clone to your local repo and run **app.py**
 * The loan to value ratio is 0.03.
 * Found 15 qualifying loans
 * ? Do you want save this csv file Yes
-* ? enter path myloanlist.csv"
+* ? enter path myloanlist.csv 
+"
 
 
 
