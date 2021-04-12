@@ -38,17 +38,17 @@ Clone to your local repo and run **app.py**
 
 
 >"...
-*? Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
-*? What's your credit score? 750
-? What's your current amount of monthly debt? 500
-? What's your total monthly income? 10000
-? What's your desired loan amount? 25000
-? What's your home value? 1000000
-The monthly debt to income ratio is 0.05
-The loan to value ratio is 0.03.
-Found 15 qualifying loans
-? Do you want save this csv file Yes
-? enter path myloanlist.csv"
+* ?Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
+* ?What's your credit score? 750
+* ?What's your current amount of monthly debt? 500
+* ?What's your total monthly income? 10000
+* ? What's your desired loan amount? 25000
+* ? What's your home value? 1000000
+* The monthly debt to income ratio is 0.05
+* The loan to value ratio is 0.03.
+* Found 15 qualifying loans
+* ? Do you want save this csv file Yes
+* ? enter path myloanlist.csv"
 
 
 
@@ -57,16 +57,16 @@ Found 15 qualifying loans
 
 ## Usage
 
-? When prompted for Enter a file path to a rate-sheet (.csv), 
+1. ? When prompted for Enter a file path to a rate-sheet (.csv), 
     enter: "./data/daily_rate_sheet.csv"
-? Enter credit score
-? Enter total monthly debt
-? Enter total current monthly income
-? Enter desired loan amount
-? Enter home value
-? When prompted if you would love to select csv file? Select Y for Yes, N for No
-? If yes, enter a path 
-? If no, you will automatically exit the loan qualifier app
+2. ? Enter credit score
+3. ? Enter total monthly debt
+4. ? Enter total current monthly income
+5. ? Enter desired loan amount
+6. ? Enter home value
+7. ? When prompted if you would love to select csv file? Select Y for Yes, N for No
+8. ? If yes, enter a path 
+9. ? If no, you will automatically exit the loan qualifier app
 
 
 ---
