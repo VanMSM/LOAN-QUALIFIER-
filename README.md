@@ -36,9 +36,21 @@ Clone to your local repo and run **app.py**
 
 ## Examples
 
-![image1](/Users/vanmaquilan/Desktop/code2image1.jpg)
 
-![image2]()
+>"...
+? Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
+? What's your credit score? 750
+? What's your current amount of monthly debt? 500
+? What's your total monthly income? 10000
+? What's your desired loan amount? 25000
+? What's your home value? 1000000
+The monthly debt to income ratio is 0.05
+The loan to value ratio is 0.03.
+Found 15 qualifying loans
+? Do you want save this csv file Yes
+? enter path myloanlist.csv"
+
+
 
 
 ---
