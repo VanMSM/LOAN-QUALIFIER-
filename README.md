@@ -36,7 +36,7 @@ Clone to your local repo and run **app.py**
 
 ## Examples
 
-![image1](Screen Shot 2021-04-11 at 10.06.10 PM-2.jpg)
+![image1](/Users/vanmaquilan/Desktop/code2image1.jpg)
 
 ![image2]()
 
