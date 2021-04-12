@@ -78,9 +78,9 @@ Clone to your local repo and run **app.py**
 4. ? Enter total current monthly income
 5. ? Enter desired loan amount
 6. ? Enter home value
-7. ? When prompted if you would love to select csv file? Select Y for Yes, N for No
-8. ? If yes, enter a path 
-9. ? If no, you will automatically exit the loan qualifier app
+7. ? When prompted if you would like to select csv file? Select Y for Yes, N for No
+8. ? If yes, enter a path, the application will save the file.
+9. ? If no, you will automatically exit the loan qualifier app.
 
 
 ---
