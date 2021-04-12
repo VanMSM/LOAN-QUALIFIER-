@@ -121,22 +121,7 @@ def save_qualifying_loans(qualifying_loans):
 
     if not csvpath:
         sys.exit(f"Oops! Can't find this path: {csvpath}")
-        
-
-"""
-output_path = Path("list_of_qualifying_loans.csv")
-
-# Used the csv library and `csv.writer` to write the header row
-and each row of `loan.values()` from the `qualifying_loanns` list.
-
-csvpath = Path("list_of_qualifying_loans.csv")
-with open (csvpath, 'w') as csvfile:
-    csvwriter = csv.writer(csvfile, delimiter=",")
-    csvwriter.writerow(header)
-    for loan in qualifying_loans :
-        csvwriter.writerow(loan.values())
-
- """ 
+         
 
 
 def run():
