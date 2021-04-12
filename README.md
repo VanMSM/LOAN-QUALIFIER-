@@ -36,13 +36,26 @@ Clone to your local repo and run **app.py**
 
 ## Examples
 
-coming soon!
+![image1](Screen Shot 2021-04-11 at 10.06.10 PM-2.jpg)
+
+![image2]()
+
 
 ---
 
 ## Usage
 
-photos coming soon!
+? When prompted for Enter a file path to a rate-sheet (.csv), 
+    enter: "./data/daily_rate_sheet.csv"
+? Enter credit score
+? Enter total monthly debt
+? Enter total current monthly income
+? Enter desired loan amount
+? Enter home value
+? When prompted if you would love to select csv file? Select Y for Yes, N for No
+? If yes, enter a path 
+? If no, you will automatically exit the loan qualifier app
+
 
 ---
 
