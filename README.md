@@ -38,8 +38,8 @@ Clone to your local repo and run **app.py**
 
 
 >"...
-? Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
-? What's your credit score? 750
+*? Enter a file path to a rate-sheet (.csv): ./data/daily_rate_sheet.csv
+*? What's your credit score? 750
 ? What's your current amount of monthly debt? 500
 ? What's your total monthly income? 10000
 ? What's your desired loan amount? 25000
